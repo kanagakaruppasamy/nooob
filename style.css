@@ -1,0 +1,8 @@
+
+
+body
+{
+    text-align: center;
+    background-image:linear-gradient(red, orange, yellow, rgb(0, 255, 0), aqua, blue, purple); 
+    font-family: 'Cookie', cursive;
+}
